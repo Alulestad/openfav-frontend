@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Logotipo conceptual La Favorita</title>
+  <desc id="desc">Marca circular roja con hoja central estilizada</desc>
+  <defs>
+    <linearGradient id="grad" x1="20" y1="10" x2="100" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#EB3D42" />
+      <stop offset="100%" stop-color="#D84D4A" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="52" fill="url(#grad)" />
+  <path
+    d="M60 24c-18 0-32 14.5-32 32.4 0 17.9 13.7 31.6 32.6 39.7 18.8-8.1 31.4-21.8 31.4-39.7C92 38.5 78 24 60 24zm0 58c-13-6.5-21-15.5-21-25.6 0-9.3 6.9-16.5 16.7-17.8-0.7 2.8-1.1 5.7-1.1 8.6 0 9.9 4.3 18 11.4 24.6-2.2 3.4-4.5 6.7-6 10.2zm12.2-12c-5.6-6-8.2-12.2-8.2-19.8 0-4.5 0.8-9 2.5-13.3 9.3 2.4 15.5 9.6 15.5 18.9 0 6.5-3.5 12.4-9.8 14.2z"
+    fill="#fff"
+    opacity="0.95"
+  />
+  <text x="60" y="112" text-anchor="middle" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#474747" font-weight="600">
+    La Favorita
+  </text>
+</svg>
